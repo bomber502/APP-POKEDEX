@@ -1,0 +1,57 @@
+.color4{
+  background-color:#69729D;
+  text-align:center;
+  padding:50px 0;
+	min-width: 80px;
+	min-height: 400px
+}
+
+h1{
+	color: white;
+	font-family: cursive;
+	background-color: #6FD3AF;
+	width: 20%;
+	position: absolute;
+	left: 39%;
+}
+
+.MI{
+	position: absolute;
+	left: 3%;
+}
+
+.oscar{
+	background-color: white;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 350px;
+	height: 590px;
+	position: absolute;
+	left: 65%;
+	top: 30%;
+
+
+
+}
+
+h2{
+	font-family: cursive;
+	font-size: 130%;
+	color: red;
+}
+
+
+.MU{
+	width: 290px;
+	position: absolute;
+	left: 8%;
+}
+
+.MO{
+	width: 290px;
+	position: absolute;
+	left: 38%;
+	top: 23%;
+}
+

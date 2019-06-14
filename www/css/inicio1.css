@@ -1,0 +1,41 @@
+.padding{
+	background: url("../img/fondo3.jpg") no-repeat fixed;
+	-webkit-background-size:cover;
+
+}
+.text{
+	font-size: 200%;
+}
+header{
+	background: #670C96;
+	color: #fff;
+}
+.img{
+	margin: auto;
+	display: block;
+	width:40%;
+	margin-top: 12px;
+}
+button{
+	cursor: pointer;
+	width: 40%;
+
+}
+.color1{
+	color:#fff;
+	padding: 10px;
+	width: 150px;
+	margin-top: 12px;
+
+}
+.img1{
+	margin: auto;
+	display: block;
+	width: 100%;
+}
+
+.boton{
+	padding: 15px;
+	width: 100%;
+	margin-top: 20px;
+}

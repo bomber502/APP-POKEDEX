@@ -1,0 +1,32 @@
+.color3{
+	background:#43FC18;
+}
+.text{
+	font-size: 200%;
+}
+header{
+	background: #8F0EF3;
+	color: #fff;
+}
+.img{
+	margin: auto;
+	display: block;
+	width:100%;
+}
+button{
+	cursor: pointer;
+	width: 40%;
+
+}
+.color1{
+	color:#fff;
+}
+.img1{
+	margin: auto;
+	display: block;
+	width: 100%;
+
+}
+.color2{
+	background: #22CC7A;
+}
